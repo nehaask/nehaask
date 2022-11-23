@@ -1,5 +1,5 @@
 ###  Hello! This is Neha Kulkarni. I am a graduate student pursuing my Master's in Computer Science at Rochester Institute of Technology with an interest in Machine Learning, Data Science and Security. 
-###📫 How to reach me: linkedin.com/in/kulkarni-neha
+📫 How to reach me: linkedin.com/in/kulkarni-neha
 
 <!--
 **nehaask/nehaask** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
