@@ -1,4 +1,4 @@
-###  Hello! This is Neha Kulkarni. I am a graduate student pursuing my Master's in Computer Science at Rochester Institute of Technology with an interest in Machine Learning, Data Science and Security. 
+###  Hello! This is Neha Kulkarni. I am a graduate student pursuing my Master's of Science in Computer Science at Rochester Institute of Technology with an interest in Machine Learning, Data Science and Security. 
 📫 How to reach me: linkedin.com/in/kulkarni-neha
 
 <!-- # 📊 GitHub Stats:
