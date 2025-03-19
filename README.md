@@ -1,7 +1,9 @@
 ###  Hello! This is Neha Kulkarni. I am a graduate student pursuing my Master's of Science in Computer Science at Rochester Institute of Technology with an interest in Machine Learning, Computer Vision and Data Science.
 📫 How to reach me: linkedin.com/in/kulkarni-neha
 
-![Neha's GitHub stats](https://github-readme-stats.vercel.app/api?username=nehaask&show_icons=true&rank_icon=github)
+![Neha's GitHub stats](https://github-readme-stats.vercel.app/api?username=nehaask&show_icons=true&rank_icon=github&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nehaask&layout=donut)](https://github.com/nehaask/github-readme-stats)
 <!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nehaask&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
