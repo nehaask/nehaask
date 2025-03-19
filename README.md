@@ -3,7 +3,7 @@
 
 ![Neha's GitHub stats](https://github-readme-stats.vercel.app/api?username=nehaask&show_icons=true&rank_icon=github&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nehaask&layout=donut)](https://github.com/nehaask/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nehaask&layout=donut&theme=radical)](https://github.com/nehaask/github-readme-stats)
 <!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nehaask&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
