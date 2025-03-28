@@ -1,7 +1,6 @@
 ###  Hello! This is Neha Kulkarni. I am a graduate student pursuing my Master's of Science in Computer Science at Rochester Institute of Technology with an interest in Machine Learning, Computer Vision and Data Science.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F784F7&center=true&width=480&lines=Hi+%F0%9F%91%8B+I'm+Neha+Kulkarni;Fueled+by+coffee+%26+sarcasm+%E2%98%95%EF%B8%8F)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=E6A8D7&center=true&width=480&lines=Hi+%F0%9F%91%8B+I'm+Neha+Kulkarni;Fueled+by+coffee+%26+sarcasm+%E2%98%95%EF%B8%8F)](https://git.io/typing-svg)
 
 ![Neha's GitHub stats](https://github-readme-stats.vercel.app/api?username=nehaask&show_icons=true&rank_icon=github&theme=radical)
 
