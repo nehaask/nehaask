@@ -4,7 +4,7 @@
 
 ![Neha's GitHub stats](https://github-readme-stats.vercel.app/api?username=nehaask&show_icons=true&rank_icon=github&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nehaask&layout=donut&theme=radical)](https://github.com/nehaask/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nehaask&layout=donut&theme=radical&count-private=true)](https://github.com/nehaask/github-readme-stats)
 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=nehaask&theme=onedark&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
