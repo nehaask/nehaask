@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hello there! 👋 I'm Neha Kulkarni  
+### Hello there! I'm Neha Kulkarni  
 🎓 M.S. Computer Science @ Rochester Institute of Technology  
 💻 Machine Learning Engineer | Computer Vision | Perception Systems  
 
@@ -57,7 +57,7 @@ I’m a **Machine Learning Engineer** passionate about building intelligent syst
 
 💼 Currently seeking **full-time opportunities** in **autonomous agents** and **perception-driven AI systems**, where I can apply my experience to design and optimize intelligent, real-world applications.  
 
-🧠 I also write on [**Substack**](your-substack-link-here) — documenting what I’m learning, experimenting with, and occasionally obsessing over in the world of **AI, perception, and machine learning systems**.  
+🧠 I also write on [**Substack**](https://nehakulkarni5.substack.com) — documenting what I’m learning, experimenting with, and occasionally obsessing over in the world of **AI, perception, and machine learning systems**.  
 
 Let’s connect if you’re also excited about **autonomous systems**, **multimodal perception**, or **emerging AI infrastructure**!  
 
