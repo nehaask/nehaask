@@ -61,8 +61,7 @@ I’m a **Machine Learning Engineer** passionate about building intelligent syst
 
 Let’s connect if you’re also excited about **autonomous systems**, **multimodal perception**, or **emerging AI infrastructure**!  
 
----
-
+<!--
 ![Neha's GitHub stats](https://github-readme-stats.vercel.app/api?username=nehaask&show_icons=true&rank_icon=github&theme=radical)
 
----
+-->
