@@ -59,7 +59,7 @@ I’m a **Machine Learning Engineer** passionate about building intelligent syst
 
 🧠 I also write on [**Substack**](https://nehakulkarni5.substack.com) — documenting what I’m learning, experimenting with, and occasionally obsessing over in the world of **AI, perception, and machine learning systems**.  
 
-Let’s connect if you’re also excited about **autonomous systems**, **multimodal perception**, or **emerging AI infrastructure**!  
+Let’s connect if you’re also excited about **autonomous systems**, **multimodal perception**, or **emerging physical AI infrastructure**!  
 
 <!--
 ![Neha's GitHub stats](https://github-readme-stats.vercel.app/api?username=nehaask&show_icons=true&rank_icon=github&theme=radical)
