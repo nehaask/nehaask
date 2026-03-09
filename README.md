@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 I’m a **Machine Learning Engineer** passionate about building intelligent systems that can **see, understand, and interact with the world**.  
 
-🎓 Pursuing my **M.S. in Computer Science at RIT**, I’ve developed **LiDAR-based 3D perception systems** and deployed **real-time object detection models** for **ADAS** and **autonomous vehicle** applications.  
+🎓 During my **M.S. in Computer Science at RIT** and internship at **Goodyear Tire and Rubber Company**, I’ve developed **LiDAR-based 3D perception systems** and deployed **real-time object detection models** for **ADAS** and **autonomous vehicle** applications.  
 
 🚗 My work bridges **computer vision**, **edge deployment**, and **scalable ML pipelines** — with a focus on enabling robust, perception-driven autonomy.  
 
