@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 I’m a **Machine Learning Engineer** passionate about building intelligent systems that can **see, understand, and interact with the world**.
 
-💼 Currently building LiDAR-based perception systems for real-world, real-time applications. 
+💼 Currently at **[**SOTEREON.AI**](https://www.linkedin.com/company/sotereonai/)** building LiDAR-based perception systems for real-world, real-time applications. 
 
 🎓 During my **M.S. in Computer Science at RIT** and internship at **Goodyear Tire and Rubber Company**, I’ve developed **LiDAR-based 3D perception systems** and deployed **real-time object detection models** for **ADAS** and **autonomous vehicle** applications.  
 
