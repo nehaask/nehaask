@@ -49,17 +49,17 @@ Here are some ideas to get you started:
 
 ### 💫 About Me  
 
-I’m a **Machine Learning Engineer** passionate about building intelligent systems that can **see, understand, and interact with the world**.  
+I’m a **Machine Learning Engineer** passionate about building intelligent systems that can **see, understand, and interact with the world**.
+
+💼 Currently building LiDAR-based perception systems for real-world, real-time applications. 
 
 🎓 During my **M.S. in Computer Science at RIT** and internship at **Goodyear Tire and Rubber Company**, I’ve developed **LiDAR-based 3D perception systems** and deployed **real-time object detection models** for **ADAS** and **autonomous vehicle** applications.  
 
 🚗 My work bridges **computer vision**, **edge deployment**, and **scalable ML pipelines** — with a focus on enabling robust, perception-driven autonomy.  
 
-💼 Currently seeking **full-time opportunities** in **autonomous agents** and **perception-driven AI systems**, where I can apply my experience to design and optimize intelligent, real-world applications.  
-
 🧠 I also write on [**Substack**](https://nehakulkarni5.substack.com) — documenting what I’m learning, experimenting with, and occasionally obsessing over in the world of **AI, perception, and machine learning systems**.  
 
-Let’s connect if you’re also excited about **autonomous systems**, **multimodal perception**, or **emerging physical AI infrastructure**!  
+Let’s connect if you’re also excited about **autonomous systems**, **3D perception**, or **emerging physical AI infrastructure**!  
 
 <!--
 ![Neha's GitHub stats](https://github-readme-stats.vercel.app/api?username=nehaask&show_icons=true&rank_icon=github&theme=radical)
