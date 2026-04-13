@@ -40,8 +40,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hello there! I'm Neha Kulkarni  
+💻 Perception Software Engineer @ SOTEREON.AI
 🎓 M.S. Computer Science @ Rochester Institute of Technology  
-💻 Machine Learning Engineer | Computer Vision | Perception Systems  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=E6A8D7&center=true&width=480&lines=Hi+%F0%9F%91%8B+I'm+Neha+Kulkarni;Fueled+by+coffee+%26+sarcasm+%E2%98%95%EF%B8%8F)](https://git.io/typing-svg)
 
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 I’m a **Machine Learning Engineer** passionate about building intelligent systems that can **see, understand, and interact with the world**.
 
-💼 Currently at **[**SOTEREON.AI**](https://www.linkedin.com/company/sotereonai/)** building LiDAR-based perception systems for real-world, real-time applications. 
+💼 Currently at **[**SOTEREON.AI**](https://www.sotereon.ai)** building LiDAR-based perception systems for real-world, real-time applications. 
 
 🎓 During my **M.S. in Computer Science at RIT** and internship at **Goodyear Tire and Rubber Company**, I’ve developed **LiDAR-based 3D perception systems** and deployed **real-time object detection models** for **ADAS** and **autonomous vehicle** applications.  
 
